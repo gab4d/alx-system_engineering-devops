@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$EUID"
+echo "Effective username: `whoami`"
