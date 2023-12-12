@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 ! -path './.' -type d | wc -l
+find . -type f -name "*.js" -delete
