@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "(\\u00F4\\u00F2)"
+echo -e "(\U0001F60F\U0001F609)"
