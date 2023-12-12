@@ -1,2 +1,2 @@
 #!/bin/bash
-print("(Ôo)")
+echo -e "(\\u00F4\\u00F2)"
