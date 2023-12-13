@@ -1,2 +1,2 @@
 #!/bin/bash
-Printenv | sort
+env | awk -F= '{print $1}'
