@@ -1,2 +1,2 @@
 #!/bin/bash
-Set
+set | grep -vE '^(PS[0-9]+:|SHLVL=|_|BASH_VERSINFO=)'
